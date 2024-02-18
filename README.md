@@ -19,7 +19,6 @@ And here is the back-end project :
 
 ## Why BookWel ?🤔
 - **Intuitive interface**: Find your next read in a snap with our user-friendly design.
-- **TBR (To Be Read) list**: Keep track of your literary aspirations and prioritize your next literary adventure.
 - **Reading challenges** __on the future:__ Spark your reading journey with curated challenges, from conquering classics to exploring diverse voices.
 
 
